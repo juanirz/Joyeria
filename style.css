@@ -1,3 +1,37 @@
+body {
+  background-color: lightblue;
+}
+
 h1 {
-  color: aqua;
+  color: gold;
+  text-align: center;
+
+}
+
+p {
+  color: darkslateblue;
+  font-size: 20px;
+}
+
+img {
+  border: 3px solid black;
+
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+a {
+  color: violet;
+
+}
+
+a:hover {
+  color: blueviolet;
+
 }
